@@ -3,7 +3,7 @@
 <br><h1><B>Triton-inference-server - 从入门到跑路 | 🚴‍♂️ </B></h1><br>
 
 <img src="https://img.shields.io/github/repo-size/goudemaoningsir/Salute_Triton-inference-server.svg?label=Repo%20size&style=flat-square" height="20">
-<img src="https://img.shields.io/badge/License-Apache%202.0-purple" data-origin="https://img.shields.io/badge/License-Apache%202.0-blue" alt="">
+<img src="https://img.shields.io/badge/License-Apache%202.0-purple" data-origin="https://img.shields.io/badge/License-MIT-blue" alt="">
 
 [GitHub](https://github.com/goudemaoningsir/Salute_Triton-inference-server)
 [开始阅读](/README.md)
