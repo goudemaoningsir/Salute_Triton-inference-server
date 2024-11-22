@@ -4,7 +4,7 @@
   </a>
   <h1>Triton inference server - Beginner Runaway | 🚴‍♂️</h1>
   <img src="https://img.shields.io/github/repo-size/goudemaoningsir/Salute_Triton-inference-server.svg?label=Repo%20size&style=flat-square" height="20">
-  <img src="https://img.shields.io/badge/License-Apache%202.0-purple" data-origin="https://img.shields.io/badge/License-MIT-blue" alt="">
+  <img src="https://img.shields.io/badge/License-MIT-purple" data-origin="https://img.shields.io/badge/License-MIT-blue" alt="">
 </div>
 
 ## 简介
